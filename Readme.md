@@ -13,7 +13,7 @@ To run this scripts it is necessary to add the data in a Matrix. The project is 
 ## Project Organization
 
 The project is divided in folders:
-- Data: Monk's datasets, Cup dataset and Blind test dataset
+- Data: Folder to insert data do be used
 - Gradient Descent Learning: script for the training with the Gradient Descent Learning
 - Neural Network: feed forward and back propagation steps
 - Polyak Learning: script for the training with the Polyak Learning
